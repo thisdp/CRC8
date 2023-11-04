@@ -1,0 +1,29 @@
+#######################################
+# CRC8
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+CRC8Model KEYWORD1
+CRC8 KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setModel KEYWORD2
+updateRaw KEYWORD2
+update KEYWORD2
+get KEYWORD2
+clear KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+CRC8CRC8DEFAULT LITERAL1
+CRC8ITU LITERAL1
+CRC8MAXIM LITERAL1
+CRC8ROHC LITERAL1
